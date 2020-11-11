@@ -1,0 +1,344 @@
+﻿date,time,location,cc,operator,flight_no,route,ac_type,registration,cn_ln,aboard,fatalities,ground
+17.09.1908,17:18,USA,USA,Military - U.S. Army,?,Demonstration,Wright Flyer III,?,1,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:1Â  crew:0),0
+07.09.1909,?,France,FRA,?,?,Air show,Wright Byplane,SC1,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:0),0
+12.07.1912,06:30,USA,USA,Military - U.S. Navy,?,Test flight,Dirigible,?,?,5 Â  (passengers:0Â  crew:5),5 Â  (passengers:0Â  crew:5),0
+06.08.1913,?,Canada,CAN,Private,?,?,Curtiss seaplane,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+17.10.1913,c 10:30,Germany,DEU,Military - German Navy,?,?,Zeppelin L-2 (airship),?,?,30 Â  (passengers:?Â  crew:?),30 Â  (passengers:?Â  crew:?),0
+05.03.1915,c 01:00,Belgium,BEL,Military - German Navy,?,?,Zeppelin L-8 (airship),?,?,41 Â  (passengers:?Â  crew:?),21 Â  (passengers:?Â  crew:?),0
+03.09.1915,c 15:20,Germany,DEU,Military - German Navy,?,?,Zeppelin L-10 (airship),?,?,19 Â  (passengers:?Â  crew:?),19 Â  (passengers:?Â  crew:?),0
+28.07.1916,?,Bulgaria,BGR,Military - German Army,?,?,Schutte-Lanz S-L-10 (airship),?,?,20 Â  (passengers:?Â  crew:?),20 Â  (passengers:?Â  crew:?),0
+24.09.1916,c 01:00,England,GBR,Military - German Navy,?,?,Zeppelin L-32 (airship),?,?,22 Â  (passengers:?Â  crew:?),22 Â  (passengers:?Â  crew:?),0
+01.10.1916,c 23:45,England,GBR,Military - German Navy,?,?,Zeppelin L-31 (airship),?,?,19 Â  (passengers:0Â  crew:19),19 Â  (passengers:0Â  crew:19),0
+21.11.1916,?,Germany,DEU,Military - German Army,?,?,Super Zeppelin (airship),?,?,28 Â  (passengers:?Â  crew:?),27 Â  (passengers:?Â  crew:?),0
+28.11.1916,c 23:45,England,GBR,Military - German Navy,?,?,Zeppelin L-34 (airship),?,?,20 Â  (passengers:?Â  crew:?),20 Â  (passengers:?Â  crew:?),0
+04.03.1917,?,Belgium,BEL,Military - German Army,?,?,Airship,?,?,20 Â  (passengers:?Â  crew:?),20 Â  (passengers:?Â  crew:?),0
+14.05.1917,c 05:15,Germany,DEU,Military - German Navy,?,?,Zeppelin L-22 (airship),?,?,21 Â  (passengers:?Â  crew:?),21 Â  (passengers:?Â  crew:?),0
+14.06.1917,c 08:45,Germany,DEU,Military - German Navy,?,?,Zeppelin L-43 (airship),?,?,24 Â  (passengers:?Â  crew:?),24 Â  (passengers:?Â  crew:?),0
+17.06.1917,?,England,GBR,?,?,?,Zepplin LZ-95 (air ship),L-48,?,16 Â  (passengers:?Â  crew:?),14 Â  (passengers:?Â  crew:?),0
+20.10.1917,c 07:45,France,FRA,Military - German Navy,?,?,Zeppelin L-44 (airship),?,?,18 Â  (passengers:?Â  crew:?),18 Â  (passengers:?Â  crew:?),0
+10.05.1918,?,Germany,DEU,Military - German Navy,?,?,Zeppelin L-70 (airship),?,?,22 Â  (passengers:?Â  crew:?),22 Â  (passengers:?Â  crew:?),0
+11.08.1918,c 10:00,Germany,DEU,Military - German Navy,?,?,Zeppelin L-53 (airship),?,?,19 Â  (passengers:?Â  crew:?),19 Â  (passengers:?Â  crew:?),0
+16.12.1918,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,97,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+25.05.1919,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,61,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+19.07.1919,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,82,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.08.1919,?,Italy,ITA,Caproni Company,?,Venice  Taliedo,Caproni Ca.48,?,?,14 Â  (passengers:12Â  crew:2),14 Â  (passengers:12Â  crew:2),0
+02.10.1919,?,England,GBR,Aircraft Transport and Travel,?,?,De Havilland DH-4,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.10.1919,?,USA,USA,US Aerial Mail Service,?,?,Curtiss R-4LM,32,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+20.10.1919,?,England,GBR,Aircraft Transport and Travel,?,?,De Havilland DH-4,G-EAHG,?,0 Â  (passengers:?Â  crew:?),0 Â  (passengers:?Â  crew:?),0
+30.10.1919,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH.4,77,77,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+11.12.1919,?,England,GBR,Aircraft Travel Transport,?,Paris - Hounslow,de Havilland DH-4,G-EAHF,?,1 Â  (passengers:1Â  crew:1),1 Â  (passengers:1Â  crew:1),0
+10.03.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,65,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+30.03.1920,?,USA,USA,US Aerial Mail Service,?,Washington - Newark,De Havilland DH-4,72,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+10.04.1920,?,USA,USA,US Aerial Mail Service,?,?,Curtiss R-4LM,49,?,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:?Â  crew:?),0
+11.04.1920,?,USA,USA,US Aerial Mail Service,?,?,Curtiss JN-4H,44,?,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+12.05.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,79,?,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:?Â  crew:?),0
+06.06.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,204,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+20.06.1920,?,Colombia,COL,CompaÃ±ia Colombiana de NavegaciÃ³n AÃ©rea,?,?,Farman F-40,?,?,1 Â  (passengers:1Â  crew:1),1 Â  (passengers:1Â  crew:1),0
+16.08.1920,?,England,GBR,By Air,?,?,Armstrong-Whitworth F-K-8,G-EALW,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+16.08.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,317,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+01.09.1920,?,USA,USA,US Aerial Mail Service,?,?,Junkers JL-6,305,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+15.09.1920,?,USA,USA,US Aerial Mail Service,?,?,Junkers F-13,308,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+27.09.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,316,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.10.1920,?,France,FRA,Latecoere Airlines,?,?,Salmson 2-A-2,F-ALAI,31,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+05.10.1920,?,Spain,ESP,Latecoere Airlines,?,?,Breguet 14,F-ALTA,20,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+15.10.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,76,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+07.11.1920,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,?,178,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.12.1920,c12:15,England,GBR,Handley Page Transport,?,London - Paris,Handley Page HP-16,G-EAMA,HP-25,8 Â  (passengers:6Â  crew:2),4 Â  (passengers:2Â  crew:2),0
+24.12.1920,?,Spain,ESP,Aeropostale,?,?,Breguet 14,F-ALBO,57,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+03.02.1921,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,130,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+09.02.1921,?,USA,USA,US Aerial Mail Service,?,?,Junkers F-13,301,?,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+22.02.1921,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,67,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+06.04.1921,?,Australia,AUS,Military - Royal Australian Air Force,?,?,Avro 504,H3021,?,2 Â  (passengers:0Â  crew:0),2 Â  (passengers:0Â  crew:0),0
+21.04.1921,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,160,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+29.04.1921,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,196,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+17.05.1921,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,,,,,
+14.08.1921,?,France,FRA,Aeropostale,?,?,Breguet 14,F-ALBI,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+24.08.1921,c 17:40,England,GBR,Military - Royal Airship Works,?,?,Royal Airship Works ZR-2 (airship),R-38,R-38,46 Â  (passengers:0Â  crew:46),46 Â  (passengers:0Â  crew:46),1
+06.09.1921,?,France,FRA,Franco-Roumaine,?,Warsaw - Prague - Strasbourg - Paris,Potez IX,F-ADCD,160,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+05.12.1921,?,Australia,AUS,West Australian Airways,?,Geraldton - Derby,Bristol 28 Tourer,G-AUDI,6116,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+14.01.1922,?,France,FRA,Handley Page Transport,?,?,Handley Page O/10,G-EATN,HP-43,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),5
+21.02.1922,?,USA,USA,Military - U.S. Army Air Service,?,?,Dirigible Roma (airship),?,?,45 Â  (passengers:?Â  crew:?),34 Â  (passengers:?Â  crew:?),0
+07.04.1922,1315,France,FRA,Daimler Airways / Grands Express Aeriens,?,Croydon - Le Bourget,de Havilland DH-18 / Farman F-60 Goliath,G-EAOW/FGEAD,4,7 Â  (passengers:5Â  crew:2),7 Â  (passengers:5Â  crew:2),0
+08.04.1922,?,China,CHN,?,?,Test,?,?,?,17 Â  (passengers:0Â  crew:17),17 Â  (passengers:0Â  crew:17),0
+03.06.1922,?,England,GBR,Cie des Messageries Aeriennes,?,Croydon - Paris,Bleriot Spad 27,F-ACMH,555,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+04.07.1922,?,Germany,DEU,?,?,Hamburg - Berlin,LVG C VI,?,?,3 Â  (passengers:2Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+16.07.1922,c 16:45,France,FRA,Compagnie Franco-Roumaine de Navigaation Aerienne,?,Strasbourg - Paris,Potez 29,F-FREI,25,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+26.07.1922,?,Spain,ESP,Grands Express Aeriens,?,?,Breguet 14,F-ALVE,117,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+07.09.1922,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,227,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.10.1922,?,Italy,ITA,?,?,Venice - London,de Havilland DH-9,G-EAYT,14,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+25.10.1922,?,Morocco,MAR,Grands Express Aeriens,?,?,Breguet 14,?,?,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+03.12.1922,?,Morocco,MAR,Grands Express Aeriens,?,Toulouse - Barcelona - Valencia - Alicante - Malaga - Rabat,Breguet 14,F-ALNA,14,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+10.01.1923,?,France,FRA,Amee de l'Air,?,?,LiorÃ©-et-Olivier H-13,F-AEIB,4,4 Â  (passengers:2Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+17.01.1923,?,Spain,ESP,Grands Express Aeriens,?,?,Breguet 14,F-ALJU,6083-130,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+18.01.1923,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,223,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+26.02.1923,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,291,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.05.1923,c 13:40,France,FRA,Grands Express Aeriens (Air Union),?,Paris - London,Farman F-60 Goliath,F-AEBY,15,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+27.08.1923,?,Romania,ROU,Campagnie France Roumaine,?,?,BlÃ©riot Spad 46,F-AEGN,28,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+07.09.1923,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,283,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.09.1923,c 18:00,England,GBR,Daimler Airways,?,Croydon - Manchester,de Havilland DH-34,G-EBBS,29,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+06.12.1923,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,318,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.12.1923,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,315,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+07.03.1924,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,327,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+08.06.1924,?,Colombia,COL,SCADTA,?,Barranquilla - Bogota,Junkers F-13,A16,?,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+06.11.1924,?,France,FRA,Grands Express Aeriens,?,?,?,F-AFBD,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+21.12.1924,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,311,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.12.1924,c 12:00,England,GBR,Imperial Airways,?,London - Paris,de Havilland DH-34B,G-EBBX,36,8 Â  (passengers:7Â  crew:1),8 Â  (passengers:7Â  crew:1),0
+22.03.1925,?,Russia,RUS,Zakavia,?,Tiflis - Suchumi,Junkers F-13,R-RECA,590,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+25.04.1925,?,Spain,ESP,Grands Express Aeriens,?,Alicante - Barcelona - Toulouse,Breguet 14,F-AFBB,202,3 Â  (passengers:1Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+25.06.1925,?,France,FRA,KLM Royal Dutch Airlines,?,Amsterdam - Paris,Fokker (KLM)  F.III,H-NABM,1502,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+26.06.1925,?,Spain,ESP,Grands Express Aeriens,?,Oran - Alicante,LiorÃ©-et-Olivier LeO H-13,F-FREM,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+20.07.1925,?,Spain,ESP,Lignes Aeriennes Latecoere,?,Toulouse - Barcelona,Breguet 14,F-AFBI,209,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.07.1925,?,Hungary,HUN,CIDNA,?,?,Potez IX,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+03.09.1925,c 05:30,USA,USA,Military - U.S. Navy,?,Lakehurst, NJ - S.t Louis, MO,Dirigible ZR-1 Shenandoah (airship),ZR-1,?,43 Â  (passengers:?Â  crew:?)
+07.09.1925,?,France,FRA,CIDNA,?,?,Spad 33,?,?,? Â  (passengers:?Â  crew:?),? Â  (passengers:?Â  crew:?),?
+01.10.1925,?,USA,USA,US Aerial Mail Service,?,?,De Havilland DH-4,385,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.11.1925,?,Mauritania,MRT,Lignes Aeriennes Latecoere,?,?,Breguet 14,F-AEGZ,168,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.11.1925,?,France,FRA,Air Union,?,?,Farman F-60 Goliath,F-AMFY,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+12.02.1926,?,USA,USA,US Aerial Mail Service,?,?,Curtiss Carrier Pigeon,602,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+08.03.1926,?,Germany,DEU,Deutche Lufthansa,?,?,Junkers F-13,D-290,,,,
+03.07.1926,?,Czech Republic,CZE,Compagnie Internationale de Navigation AÃ©rienne,?,Paris - Prague - Budapest,Caudron C-61,F-AFBT,5307,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+09.07.1926,930,Belgium,BEL,KLM Royal Dutch Airlines,?,Amsterdam - Rotterdam - Brussels - Paris,Fokker F7,H-NACC,4759,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+24.07.1926,?,Germany,DEU,Deutsche Lufthansa,?,?,Junkers F-13,D-272,660,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+18.08.1926,?,England,GBR,Air Union,?,Lebourget, France - Croydon, England,Bleriot 155,F-AIEB,2,4 Â  (passengers:3Â  crew:1)
+26.09.1926,?,USA,USA,?,?,New York - Paris,Sikorsky S-25,?,?,5 Â  (passengers:4Â  crew:1),2 Â  (passengers:2Â  crew:0),0
+02.10.1926,?,England,GBR,Air Union,?,Paris - London,Bleriot 155,F- AICQ,1,7 Â  (passengers:5Â  crew:2),7 Â  (passengers:5Â  crew:2),0
+08.10.1926,?,Germany,DEU,Deutsche Lufthansa,?,?,Fokker FG III,D-468,1554,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+11.11.1926,800,Morocco,MAR,Grands Express Aeriens,?,Casablanca -Dakar,Breguet 14,F-AFAX,198,3 Â  (passengers:3Â  crew:0),3 Â  (passengers:3Â  crew:0),0
+16.12.1926,?,USA,USA,Pacific Air Transport,?,?,Ryan M-1,2,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+12.01.1927,?,France,FRA,Fokker,?,Delivery flight,Fokker F-VII,G-EBPL,4938,0 Â  (passengers:0Â  crew:2),0 Â  (passengers:0Â  crew:2),0
+20.03.1927,?,Morocco,MAR,Grands Express Aeriens,?,Casablanca - Oran,Breguet 14,F-ALRA,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.03.1927,?,Australia,AUS,Qantas,?,Charleville - Tambo - Blackall,de Havilland DH-9C,G-AUED,86,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+15.04.1927,?,USA,USA,Varney Air Lines,?,?,Swallow,,,,,
+22.04.1927,?,Germany,DEU,Deutsche Lufthansa,?,Charleville - Tambo - Blackall,Fokker FG III,D-729,1567,2 Â  (passengers:1Â  crew:1),2 Â  (passengers:1Â  crew:1),0
+22.04.1927,?,USA,USA,US Aerial Mail Service,?,?,Douglas M-4,626,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.05.1927,?,Algeria,DZA,Air Union,?,?,SPCA Meteore 63,F-AIFN,?,3 Â  (passengers:0Â  crew:3),1 Â  (passengers:0Â  crew:1),0
+27.07.1927,?,Germany,DEU,Deutsche Lufthansa,?,Kassel - Frankfurt,Junkers F-13,D-206,591,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+22.08.1927,c 08:30,England,GBR,KLM Royal Dutch Airlines,?,Croydon - Schiphol,Fokker F-VIII,H-NADU,,,,
+03.09.1927,?,USA,USA,Colonial Air Transport,?,?,Fokker Universal,"NC52  	",,,,
+17.09.1927,?,USA,USA,Reynolds Airways,?,Sightseeing,Fokker F-VII,NC776,4840,12 Â  (passengers:11Â  crew:1),7 Â  (passengers:6Â  crew:1),0
+23.09.1927,10:00,Germany,DEU,Deutsche Lufthansa,?,Berlin - Munich,Dornier Merkur,D-585,75,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+06.10.1927,?,Mauritania,MRT,Lignes Aeriennes Latecoere,?,Saint Louis - Dakar,Breguet 14,F-AGBN,229,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+30.10.1927,?,USA,USA,Colonial Air Transport,?,?,Fairchild FC-2,?,20,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+08.11.1927,?,France,FRA,CIDNA,?,Strasbourg - Paris,Farman F-121 Jabiru,F-AIBR,1,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+29.11.1927,?,USA,USA,National Air Transport,?,?,Douglas M-4,"NC62  	",,,,
+28.12.1927,?,Spain,ESP,Aeropostale,?,Dakar - Casablanca - Alicante - Perpignan - Toulouse,Breguet 14,F-AFGS,227,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+31.12.1927,?,France,FRA,Latecoere Airlines,?,Test flight,LatÃ©coÃ¨re 23 (flying boat),F-AIHP,23. Jan,5 Â  (passengers:0Â  crew:5),5 Â  (passengers:0Â  crew:5),0
+08.01.1928,?,USA,USA,Colonial Western Airlines,?,Minola - Albany - Buffalo,Fairchild FC-2,NC3780,39,3 Â  (passengers:1Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+16.01.1928,?,Uruguay,URY,Aeropostale,F-AIKG,Buenos Aires - Montevideo,Latecoere 25,F-AIKG,633,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+22.01.1928,?,Algeria,DZA,Aeropostale,?,Toulouse - Perpignan - Alicante - Casablanca - Dakar,Breguet 14,F-AHEQ,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+22.01.1928,?,Spain,ESP,Aeropostale,?,Casablanca - Alicante - Perpignan - Toulouse,Breguet 14,F-AHEQ,240,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+27.01.1928,?,Spain,ESP,Aeropostale,?,Casablanca - Alicante - Perpignan - Toulouse,Breguet 14,F-AFHN,162,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+26.02.1928,?,USA,USA,Boeing Air Transport,?,?,Boeing 40,NC280,891,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:1Â  crew:0),0
+11.03.1928,?,France,FRA,Air Union,?,Paris - Croydon,Farman F-60 Goliath,F-AEFC,62/6943,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+17.04.1928,?,USA,USA,Boeing Air Transport,?,?,Boeing 40,NC282,,,,
+19.04.1928,?,Spain,ESP,Iberia Airlines,?,Barcelona - Madrid,Rohrbach Roland,M-CCCC,36,9 Â  (passengers:7Â  crew:2),9 Â  (passengers:7Â  crew:2),0
+07.05.1928,?,Brazil,BRA,Aeropostale,?,?,Latecoere 26,F-AIMQ,671,5 Â  (passengers:3Â  crew:2),1 Â  (passengers:1Â  crew:0),0
+12.05.1928,?,USA,USA,Ford Air Freight Inc.,?,Dearborn - Buffalo,Ford 4,NC1492,4-AT-001,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+26.05.1928,?,Germany,DEU,Deutsche Lufthansa,?,Essen - Dortmund - Frankfurt,Junkers F-13,D-583,742,5 Â  (passengers:4Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+14.06.1928,?,Germany,DEU,Deutsche Lufthansa,?,?,AEGK,D-74,439,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+22.06.1928,?,USA,USA,National Air Transport,?,Chicago - Dallas,Douglas M-4,NC1059,628,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+13.07.1928,?,England,GBR,Imperial Airways,?,Testing,Vickers 74 Vulcan,G-EBLB,9,6 Â  (passengers:5Â  crew:1),4 Â  (passengers:4Â  crew:0),0
+24.07.1928,14:48,Netherlands,NLD,KLM Royal Dutch Airlines,?,Sightseeing over Rotterdam,Fokker (KLM) F.III,H-NABR,1533 (KLM-1),6 Â  (passengers:5Â  crew:1),1 Â  (passengers:1Â  crew:0),0
+25.08.1928,c 11:00,Canada,CAN,British Columbia Airways,?,Victoria - Seattle,Ford 4-AT-B Tri Motor,G-CATX,4-AT-26,7 Â  (passengers:5Â  crew:2),7 Â  (passengers:5Â  crew:2),0
+02.09.1928,c 9:15,France,FRA,CIDNA,?,Toul - Clermont-Ferrand,Bleriot Spad 33,F-AIEP,Mai 07,5 Â  (passengers:2Â  crew:3),5 Â  (passengers:2Â  crew:3),0
+04.09.1928,?,Australia,AUS,Qantas,?,Adelaide - Longreach,de Havilland DH.50J,G-AUHI,5,2 Â  (passengers:0Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+04.09.1928,11:30,USA,USA,National Parks Airways,?,Great Falls - Pocatello - Salt Lake City,Fokker Super Universal,NC7242,809,7 Â  (passengers:6Â  crew:1),7 Â  (passengers:6Â  crew:1),0
+06.09.1928,?,Germany,DEU,Deutsche Lufthansa,?,?,Fokker FG III,D-180,1531,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+04.10.1928,?,Spain,ESP,Aeropostale,?,Casablanca - Alicante - Barcelona - Perpignan - Toulouse,Breguet 14,F-AEEJ,,,,
+18.10.1928,?,USA,USA,National Air Transport,?,?,Douglas M-4,NC1064,658,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+31.10.1928,?,France,FRA,Air Union,?,Paris - Lyon - Marseille,Bleriot Spad 56,F-AIMN,4381.9,2 Â  (passengers:1Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.11.1928,?,USA,USA,Universal Airlines,?,Cleveland - Chicago,Hamilton H-47,NC7521,46,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+25.11.1928,?,USA,USA,Continental Air Lines,?,Cleveland - Louisville,Travel Air 4000,NC5436,525,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+25.11.1928,?,USA,USA,National Air Transport,?,?,Douglas M-4,NC792,650,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+01.12.1928,c 10:00,USA,USA,Sunbeam Air Transport Co.,?,San Antonio - Amarillo - Tulsa - Denver,Ford 4-AT-B Tri Motor,NC7862,4-AT-47,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+03.12.1928,08:00,Brazil,BRA,Syndicato Condor,?,Sightseeing,Dornier Wal,P-BACA,83,14 Â  (passengers:9Â  crew:5),14 Â  (passengers:9Â  crew:5),0
+10.12.1928,10:45,USA,USA,Spokane Airways,?,Colfax - Spokane,?,NC7687,4-AT-045,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+11.12.1928,?,Germany,DEU,Deutsche Lufthansa,?,Cologne -  Berlin,Junkers G-31,D-1473,3005,4 Â  (passengers:1Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+20.12.1928,?,USA,USA,National Air Transport,?,Cleveland - Chicago,Douglas M-4,NC790,653,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+23.12.1928,?,USA,USA,Interstate Airlines,?,?,Fairchild FC-2,?,?,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+31.12.1928,?,France,FRA,CIDNA,?,Strasbourg - Paris,BlÃ©riot Spad 66,F-AEHX,3359-40,3 Â  (passengers:2Â  crew:1),2 Â  (passengers:2Â  crew:0),0
+05.01.1929,?,USA,USA,Colonial Air Transport,?,?,Fairchild FC-2,NC5650,111,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+18.01.1929,?,USA,USA,Varney Air Lines,?,Boise, ID - Pasco, WA,Stearman C-38,NC1682,102,1 Â  (passengers:0Â  crew:1)
+25.01.1929,?,Greece,GRC,Aeroespresso,?,Brindisi - Athens - Istanbul,CMASA Wal,I-AZDA,53,9 Â  (passengers:7Â  crew:2),2 Â  (passengers:7Â  crew:2),0
+31.01.1929,?,USA,USA,Skyline Transportation Company,?,?,Travel Air 4000,NC6480,800,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+17.03.1929,1700,USA,USA,Colonial Western Airlines,?,Sightseeing,Ford 5-AT-B Tri Motor,NC7683,4-AT-41,15 Â  (passengers:13Â  crew:2),14 Â  (passengers:13Â  crew:1),0
+30.03.1929,09:18,USA,USA,New Standard Airlines,?,Los Angeles - Phoenix - El Paso,Fokker F-VIIA,NC7888,617,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+21.04.1929,1145,USA,USA,Maddux Airlines / Military - U.S.Army Air Force,?,San Diego - Phoenix,Ford 5-AT-B Tri-Motor / B-PW-9D,NC9636 / 28-037,4-AT-010,6 Â  (passengers:3Â  crew:3),6 Â  (passengers:3Â  crew:3),0
+09.05.1929,?,Mexico,MEX,Mexicana,?,Tampico - Brownsville, TX,Ford Tri-motor 4,M-SCAL,?,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1)
+18.05.1929,?,Hungary,HUN,MALERT,?,?,Fokker F-III,H-MABC,1604,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+13.06.1929,800,Cuba,CUB,Pan American Airways,?,Santiago de Cuba - Havana,Fokker F-X,NC9700,1010,5 Â  (passengers:1Â  crew:4),2 Â  (passengers:1Â  crew:1),0
+14.06.1929,?,Spain,ESP,Aeropostale,?,Janeiro - Buenos Aires,Breguet 14,F-AFEJ,217,2 Â  (passengers:0Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+17.06.1929,1130,England,GBR,Imperial Airways,?,London - Paris - Basil - Zuric,Handley Page W-10,G-EBMT,W10/4,13 Â  (passengers:11Â  crew:2),7 Â  (passengers:7Â  crew:0),0
+24.06.1929,?,USA,USA,Northwest Orient Airlines,?,St. Paul - Minneapolis,Ford 5-AT-B Tri-Motor,NC7416,5-AT-002,8 Â  (passengers:6Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+29.06.1929,2100,Germany,DEU,Bodensee Aerolloyd,?,?,Domier Delphin III (flying boat),D-1620,151,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+29.06.1929,?,USA,USA,Continental Air Lines,?,?,Travel Air 4000,NC5435,524,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+11.08.1929,?,USA,USA,Middle States Airlines,?,?,Lockheed 5 Vega,NC870E,?,4 Â  (passengers:2Â  crew:2),4 Â  (passengers:2Â  crew:2),0
+24.08.1929,?,Germany,DEU,Deutsche Lufthansa,?,Frankfurt - Berlin,Fokker FG II,D-757,1571,5 Â  (passengers:4Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+24.08.1929,?,Russia,RUS,Ukvozduchput,?,?,Kalinin K-4,CCCP-217,108,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.09.1929,?,USA,USA,Associated Aviators,?,?,Lockheed Vega,NR859E,67,2 Â  (passengers:0Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+03.09.1929,1101,USA,USA,Trans Continental Air Transport,?,Albuquerque - Los Angeles,Ford 5-AT-B Tri Motor,NC9649,5-AT-002,8 Â  (passengers:5Â  crew:3),8 Â  (passengers:5Â  crew:3),0
+06.09.1929,?,Iran,IRN,Imperial Airways,?,London, England - India,de Havilland DH-66 Hercules,G-EBMZ,239,5 Â  (passengers:2Â  crew:3),3 Â  (passengers:1Â  crew:2)
+14.09.1929,1800,USA,USA,Skyways,?,Sightseeing,Travel Air 6000,CF-ABE,1024,6 Â  (passengers:5Â  crew:1),6 Â  (passengers:5Â  crew:1),0
+17.09.1929,?,USA,USA,Colonial Air Transport,?,?,Pitcairn PA-6 Mailwing,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+17.09.1929,?,USA,USA,Pickwick Airways,?,Tijuana - Nogales,Fairchild 71,?,?,2 Â  (passengers:0Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+17.09.1929,?,Morocco,MAR,Aeropostale,?,Toulouse - Perpignan - Barcelona - Alicante - Casablanca,Latecoere 25-3-R,F-AIUJ,704,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+26.10.1929,1800,Italy,ITA,Imperial Airways,?,Naples - Genoa,Short Calcutta (flying boat),G-AADN,S748,7 Â  (passengers:5Â  crew:2),7 Â  (passengers:5Â  crew:2),0
+29.10.1929,?,USA,USA,Continental Air Lines,?,Cleveland - Louisville,Stearman C-38,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+31.10.1929,?,USA,USA,Bremerton-Seattle Air Taxi / Gorst Air Lines,?,Bremerton - Seattle,Loening C-2C,NC9158,232,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+04.11.1929,700,Mexico,MEX,Corp. Aeronautica de Transportes,?,Matamoros - Mexico City - Juarez,Lockheed Vega 5,NC46M,97,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+06.11.1929,1010,England,GBR,Deutsche Lufthansa,?,Croyden - Amsterdam - Berlin,Junkers G-24,D-903,911,8 Â  (passengers:4Â  crew:4),7 Â  (passengers:3Â  crew:4),0
+16.11.1929,935,France,FRA,Air Union,?,Marseille - Ajaccio - Tunis,Liore et Olivier 190,F-AIGB,1,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+20.11.1929,?,Italy,ITA,S.A.M. SocietÃ  Aerea Mediterranea,?,Cagliari, Terranova - Rome,Savoia Marchetti S55,I-TACO,10519,12 Â  (passengers:9Â  crew:3),1 Â  (passengers:1Â  crew:0)
+30.11.1929,?,USA,USA,Varney Air Lines,?,?,Stearman M-2 Speedmail,NC8199,1006,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.12.1929,?,USA,USA,National Air Transport,?,?,Douglas M-3,NC789,622,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+19.12.1929,?,Germany,DEU,Deutsche Lufthansa,?,Marseille - Berlin,Arado V1,D-1594,47,3 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+30.12.1929,c 17:00,USA,USA,Trans Continental Air Transport,?,Demonistration,Travel Air B6000,?,?,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+10.01.1930,?,USA,USA,Boeing Air Transport,?,?,Boeing 95,NC184E,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+13.01.1930,?,Madagascar,MDG,Air Orient,?,Antananarivo - Paris,Farman 190,F-AJJK,1,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+19.01.1930,18:23,USA,USA,Maddux Airlines,7,Aqua Caliente, Mexico - Los Angeles,Ford 5-AT-C Tri Motor,NC9689,5-AT-046,16 Â  (passengers:14Â  crew:2),16 Â  (passengers:14Â  crew:2)
+25.01.1930,?,Spain,ESP,Aeropostale,?,Casablanca - Alicante,Latecoere 25,F-AJCL,691,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+27.01.1930,17:30,USA,USA,Central  Airlines (Universal Aviation Corporation),?,Wichita - Kansas City, KS,Travel Air A6000A,?,963,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1)
+03.02.1930,?,USA,USA,Colonial Air Transport,?,Newark, NJ - Hartford, CT,Pitcairn PA-6 Mailwing,NC801H,41,1 Â  (passengers:0Â  crew:1)
+10.02.1930,?,England,GBR,Air Union,?,Paris - Croydon,Farman F-63,F-FHMY,21/6844,6 Â  (passengers:3Â  crew:3),2 Â  (passengers:2Â  crew:0),0
+18.04.1930,c:17:00,USA,USA,Canadian Colonial Airways,?,Albany, NY - Jersey City, NJ,Fairchild 71,NC9148,634,4 Â  (passengers:3Â  crew:1)
+10.05.1930,?,Argentina,ARG,Aeropostale,?,Buenos Aires - Montevideo,Latecoere 28,F-AJPD,918,4 Â  (passengers:2Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+05.06.1930,?,USA,USA,Colonial Air Transport,?,Boston - Newark,Ford Tri-Motor 5,NC9675,5-AT-033,15 Â  (passengers:13Â  crew:2),1 Â  (passengers:1Â  crew:0),0
+07.07.1930,?,Denmark,DNK,Deutsche Lufthansa,?,Stettin - Norway,Dornier Wal,D-864,44,8 Â  (passengers:5Â  crew:3),5 Â  (passengers:4Â  crew:1),0
+10.07.1930,?,USA,USA,Cross Airways,?,Port Aransas - Kansas City,Lockheed Vega 5,NC-394H,87,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+21.07.1930,15:00,England,GBR,Walcot Air Line,?,London - Le touquet, France,Junkers F-13ge,G-AAZK,?,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2)
+22.08.1930,c 15:45,Czech Republic,CZE,Ceskoslovenske Aerolinie,?,Prague - Bratislava,Ford 5-AT-C Tri Motor,OK-FOR,5-AT-050,11 Â  (passengers:10Â  crew:1),10 Â  (passengers:9Â  crew:1),0
+11.09.1930,?,England,GBR,Sabena,?,Croydon - Brussels,Sabca F-VII,OO-AIN,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+25.09.1930,?,Canada,CAN,Western Canada Airways,?,Calgary - Moosejaw,Boeing 40,CF-AIN,1165,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+05.10.1930,02:05,France,FRA,Military - British Air Ministry,?,Cardington, England - Karachi, Pakistan,Royal Airship Works R-101,G-FAAW,R-101,54 Â  (passengers:?Â  crew:?)
+06.10.1930,09:45,Germany,DEU,Deutsche Lufthansa,?,Berlin - Vienna,Messerschmitt M-20B,D-1930,443,8 Â  (passengers:6Â  crew:2),8 Â  (passengers:6Â  crew:2),0
+12.10.1930,?,Morocco,MAR,Aeropostale,?,Casablanca - Bahat - Toulouse,Latecoere 28,F-AJUU,?,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+13.10.1930,?,Australia,AUS,Wings Ltd,?,?,de Havilland DH.80 Puss Moth,VH-UPC,2021,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),?
+28.10.1930,?,Canada,CAN,Alaska-Washington Airways,?,?,Lockheed Vega,NC103W,120,3 Â  (passengers:?Â  crew:?),3 Â  (passengers:?Â  crew:?),0
+30.10.1930,?,France,FRA,Imperial Airways,?,Paris, France - London, England,Handley Page W-8,G-EBIX,W8-7,6 Â  (passengers:3Â  crew:3)
+30.10.1930,?,USA,USA,Embry Riddle Company,?,?,Pitcairn PA-6 Mailwing,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+07.11.1930,?,Brazil,BRA,Syndicato Condor,?,Porto Alegre - Laguna - Rio de Janeiro,Junkers G-24,P-BAHA,921,9 Â  (passengers:8Â  crew:1),1 Â  (passengers:1Â  crew:0),0
+18.11.1930,c: 2:00,USA,USA,Pacific Air Transport,?,Burbank, CA - Oakland, CA,Boeing 40,NC5340,?,3 Â  (passengers:0Â  crew:3)
+09.12.1930,?,China,CHN,China National Aviation Corporation,?,Shanghai - Hankow,Loening C-W Air Yaht,?,?,6 Â  (passengers:4Â  crew:2),4 Â  (passengers:2Â  crew:2),0
+08.01.1931,?,Belgium,BEL,Sabena,?,Brussels - London,Fokker F-VII,OO-AIL,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+22.01.1931,?,USA,USA,Varney Air Lines,?,Portland - Pasco,Boeing 40,NC741K,1422,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+08.02.1931,?,New Zealand,NZL,Dominion Air Lines,?,Gisborne - Hastings,Desoutter II,ZK-ACA,D-36,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+20.02.1931,?,Canada,CAN,Western Canada Airways,?,Winnigeg - Moosejaw,Fokker Universal F-14,?,?,3 Â  (passengers:2Â  crew:1),2 Â  (passengers:2Â  crew:0),0
+21.03.1931,c 13:00,Australia,AUS,Australian National Airways,?,Sydney - Melbourne,Avro 10,VH-UMF,241,8 Â  (passengers:6Â  crew:2),8 Â  (passengers:6Â  crew:2),0
+31.03.1931,10:45,USA,USA,Trans Continental and Western Air,599,Kansas City - Wichita -  Los Angeles,Fokker F10A Trimotor,NC-999,1063,8 Â  (passengers:6Â  crew:2),8 Â  (passengers:6Â  crew:2),0
+14.04.1931,?,Germany,DEU,Deutsche Lufthansa,?,?,Messerschmitt M-20,D-1928,442,10 Â  (passengers:7Â  crew:3),2 Â  (passengers:0Â  crew:2),0
+05.05.1931,c 23:30,USA,USA,Pacific Air Transport,?,San Diego - Los Angeles,Boeing 40,NC5390,1044,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+22.05.1931,?,Australia,AUS,Guiena Airways,?,Lae - Bulolo,Junkers W-34,VH-UNR,2611,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.05.1931,22:30,USA,USA,National Air Transport,?,?,Boeing 95,NC397E,1057,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+07.06.1931,09:00,Malaysia,MYS,Air Orient,?,Saigon - Karachi,Fokker F-VIIB,PH-AEO,5096,4 Â  (passengers:0Â  crew:4),4 Â  (passengers:0Â  crew:4),0
+11.06.1931,?,USA,USA,Rubner Flying Service,?,?,Lockheed Vega 2,NC857E,64,3 Â  (passengers:1Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+13.06.1931,?,Germany,DEU,Deutsche Lufthansa,?,Cologne - Saarbrucken,Dornier Merkur,D-1455,177,4 Â  (passengers:2Â  crew:2),4 Â  (passengers:2Â  crew:2),0
+12.07.1931,?,USA,USA,Braniff Airlines,?,Chicago - Detroit,Lockheed Vega,NC8497,154,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+14.07.1931,?,Australia,AUS,Australian Aerial Services,?,?,Lasco Lascowl,VH-UGF,3,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+21.07.1931,?,USA,USA,American Airways,?,?,Pitcairn PA-6 Mailwing,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.07.1931,?,Bulgaria,BGR,CIDNA,?,Constantinople - Budapest,Fokker F-VII,F-ALGT,18,7 Â  (passengers:5Â  crew:2),7 Â  (passengers:5Â  crew:2),0
+09.08.1931,08:40,USA,USA,American Airways,?,Cincinnati - Atlanta,Ford 5-AT-C Tri Motor,NC9662,5AT-029,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+14.09.1931,20:00,USA,USA,Chicago-Detroit Airways,?,?,Lockheed Vega,NC606,56,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+15.09.1931,?,Romania,ROU,CIDNA,?,Paris - Bucharest,Fokker F-VIIb-3m,F-AIGT,?,6 Â  (passengers:4Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+16.09.1931,04:00,USA,USA,Pacific Air Transport,?,Oakland, CA - Seattle, WA,Boeing 40,NC10347,1428,4 Â  (passengers:3Â  crew:1)
+06.10.1931,?,Canada,CAN,Deutsche Lufthansa,?,Sydney - New York,Heinkel HE-2,D-1717,334,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+05.11.1931,06:48,USA,USA,NY, Phil., Washington AW,?,Newark, NJ  - Camden, NJ - Washington DC,Lockheed Orion 9,NC12221
+13.11.1931,?,South Africa,ZAF,Union Airways,?,Durban - Cape Town,De Havilland DH.80,ZS-ACD,2110,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+23.11.1931,?,USA,USA,Boeing Air Transport,?,?,Boeing 40,NC7465,897,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.11.1931,?,China,CHN,China National Aviation Corporation,?,Nanking - Peiking,Stinson,?,?,3 Â  (passengers:1Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+26.11.1931,22:30,USA,USA,Varney Air Lines,?,Portland,  WA - Pasco, WA,Boeing 40,NC10338,1419,1 Â  (passengers:0Â  crew:1)
+05.12.1931,?,USA,USA,Braniff Airways,?,Kansas City - Chicago,Lockheed Vega 5,NC433E,49,6 Â  (passengers:5Â  crew:1),2 Â  (passengers:2Â  crew:0),0
+06.12.1931,05:45,Thailand,THA,KLM Royal Dutch Airlines,?,Djakarta - Amsterdam -  Bangkok - Rangoon (Burma),Fokker F-VIIb-3M,PH-AFO,5226,7 Â  (passengers:3Â  crew:4),5 Â  (passengers:2Â  crew:3),0
+31.12.1931,?,USA,USA,American Airways,?,Port Colombus, OH - Louisville, KY,Fairchild Pilgrim 100A,?,?,5 Â  (passengers:4Â  crew:1)
+21.01.1932,?,USA,USA,Northwest Airways,?,Rockford - Chicago, IL - Madison, WI,Stinson SM-2A,?,?,1 Â  (passengers:0Â  crew:1)
+29.01.1932,c 16:00,USA,USA,Century Pacific Lines,?,San Francisco - Bakersfield - Los Angeles, CA,Stinson SM-6000B,?,5034,8 Â  (passengers:7Â  crew:1),8 Â  (passengers:7Â  crew:1)
+01.02.1932,?,USA,USA,Bimini Airways,?,Miami - Bimini,Fairchild,?,?,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+02.02.1932,?,USA,USA,Transamerican Airlines,?,Chicago - Kalamazoo,Stearman C-3MB,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+02.02.1932,?,USA,USA,Boeing Air Transport,?,?,Boeing 40,NC7470,?,2 Â  (passengers:0Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+27.02.1932,?,Brazil,BRA,Aeropostale,?,?,Latecoere 28,F-AJOX,?,3 Â  (passengers:?Â  crew:?),3 Â  (passengers:?Â  crew:?),0
+08.03.1932,02:00,USA,USA,Century Air Lines,?,Training,Stinson SM-6000B,?,?,5 Â  (passengers:0Â  crew:5),2 Â  (passengers:0Â  crew:2),0
+19.03.1932,c 19:30,USA,USA,American Airways,?,Phoenix, AZ - Los Angeles, CA,Fokker F-10A,NC-652E,1027,7 Â  (passengers:5Â  crew:2)
+21.03.1932,?,USA,USA,Trans Continental and Western Air,?,Columbus - McKeesport,Northrop Alpha,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+31.03.1932,?,USA,USA,National Air Transport,?,?,Boeing 95,NC191E,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+21.04.1932,?,USA,USA,Transamerica Airlines,?,?,Stearman C-3MB,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+03.05.1932,?,USA,USA,Varney Air Lines,?,?,Boeing 40,NC830M,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+16.05.1932,?,USA,USA,Pacific Air Transport,?,San Diego - Burbank - Oakland,Boeing 40,NC5589,?,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+16.07.1932,c 08:00,Chile,CHL,Panagra,?,Santiago, Chile - Mendosa, Argentina,Ford 5-AT-C Tri Motor,NC403H,5-AT-062,9 Â  (passengers:6Â  crew:3)
+12.08.1932,?,Lebanon,LBN,Air Orient,?,?,CAMS 53,F-AIQY,?,7 Â  (passengers:?Â  crew:?),1 Â  (passengers:?Â  crew:?),0
+30.08.1932,?,Germany,DEU,A B Aerotransport,?,?,Junkers G-23,SE-AAE,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+08.09.1932,c:09:00,USA,USA,American Airways,?,El Paso - Dallas,Fokker F-10,NC9716,?,4 Â  (passengers:2Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+17.09.1932,?,England,GBR,Air Union,?,?,Liore-et-Olivier 213,F-AIFE,?,2 Â  (passengers:?Â  crew:?),1 Â  (passengers:?Â  crew:?),0
+18.09.1932,?,Australia,AUS,New England Airways,?,?,De Havilland DH-80,VH-UPM,?,3 Â  (passengers:?Â  crew:?),3 Â  (passengers:?Â  crew:?),0
+12.10.1932,?,Mauritania,MRT,Aeropostale,?,?,Latecoere 28,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+26.10.1932,?,Bolivia,BOL,Lloyd Aero Boliviano,?,?,Ford Tri-motor 5,?,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+29.10.1932,?,England,GBR,Deutsche Lufthansa,?,?,Junkers W-33,?,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+02.11.1932,?,Germany,DEU,Deutsche Lufthansa,?,Nuremberg - Frankfort,Junkers F-13,D-724,696,5 Â  (passengers:3Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+25.11.1932,?,USA,USA,Hunter Airways,?,Little Rock, AR - Memphis, TN,Travel Air 6000,?,?,2 Â  (passengers:1Â  crew:1)
+14.12.1932,?,USA,USA,Boeing Air Transport,?,?,Boeing 40,NC842M,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+14.12.1932,?,USA,USA,Trans Continental and Western Air,?,?,Ford 5,NC9650,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+26.12.1932,?,Australia,AUS,Guinea Airways,?,?,De Havilland DH-60,VH-UMJ,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+14.01.1933,?,USA,USA,Eastern Air Transport,?,Test flight,Curtiss Condor 18,NC185H,?,2 Â  (passengers:0Â  crew:2),2 Â  (passengers:0Â  crew:2),0
+20.01.1933,?,USA,USA,American Airways,?,?,Stearman 4,N490W,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+20.01.1933,02:07,USA,USA,American Airways,?,Big Springs - San Antonio,Stearman 4,NC11721,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+24.01.1933,?,USA,USA,Pacific Air Transport,?,?,Ford 5-AT-D,NC431H,5-AT-098,3 Â  (passengers:0Â  crew:3),1 Â  (passengers:0Â  crew:1),0
+11.03.1933,?,Argentina,ARG,Pan American Grace Airways,?,Mendoza, Argentina - Santiago, Chili,Fairchild FC-2W,NC9723,?,2 Â  (passengers:0Â  crew:2)
+25.03.1933,20:07,USA,USA,Varney Airlines,?,Burbank - San Francisco,Lockheed Orion 9,NC12226,184,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),11
+28.03.1933,14:30,Belgium,BEL,Imperial Airways,?,Cologne, Germany - Croydon, England,Armstrong Whitworth Argosy II,G-AACI,AW-363,15 Â  (passengers:12Â  crew:3)
+03.04.1933,?,Germany,DEU,Deutsche Lufthansa,?,?,Junkers F-13,D-534,?,2 Â  (passengers:?Â  crew:?),1 Â  (passengers:?Â  crew:?),0
+04.04.1933,12:30,USA,USA,Military - U.S. Navy,?,?,Goodyear-Zeppelin U.S.S. Akron (airship),ZRS-4,?,76 Â  (passengers:?Â  crew:?),73 Â  (passengers:?Â  crew:?),0
+23.04.1933,c 07:40,Italy,ITA,Air Orient,?,Corfu - Naples,Cams 53-1,F-ALCE,29,8 Â  (passengers:5Â  crew:3),5 Â  (passengers:3Â  crew:2),0
+29.04.1933,?,Germany,DEU,Eurasia,?,?,Junkers W-34,D-4,2737,4 Â  (passengers:2Â  crew:2),4 Â  (passengers:2Â  crew:2),0
+09.05.1933,c 15:00,Spain,ESP,Aeropostale - La Tecoere Company,?,Paris - Morroco,Latecoere 28-1,F-AJIX,1701,6 Â  (passengers:3Â  crew:3),6 Â  (passengers:3Â  crew:3),0
+02.06.1933,?,USA,USA,Eastern Air Transport,?,?,Pitcairns PA-6,?,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+11.06.1933,c 17:00,USA,USA,Palwaukee,?,Sightseeing,Sikorsky S-38B (flying boat),NC-141M,?,9 Â  (passengers:7Â  crew:2),9 Â  (passengers:7Â  crew:2),0
+29.08.1933,c 01:00,USA,USA,Trans Continental and Western Air,?,Amarillo, TX - Albuquerque, NM,Ford 5-AT-B Tri Motor,NC9607,5-AT-005,5 Â  (passengers:3Â  crew:2)
+12.09.1933,?,Republic of Serbia,SRB,Aeroput,?,Ljubjana - Susak, Croatia,Farman F-306,YU-SAH,?,8 Â  (passengers:6Â  crew:2),8 Â  (passengers:6Â  crew:2)
+10.10.1933,21:00,USA,USA,United Air Lines,?,Cleveland - Chicago,Boeing 247,NC13304,1685,10 Â  (passengers:7Â  crew:3),10 Â  (passengers:7Â  crew:3),0
+31.10.1933,?,France,FRA,Air France,?,?,Farman F-301,F-AJMI,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+09.11.1933,22:35,USA,USA,United Air Lines,?,Seattle, WA - Dallas, TX,Boeing 247,NC13345,?,9 Â  (passengers:6Â  crew:3)
+10.11.1933,?,USA,USA,Trans Continental and Western Air,?,?,Northrop Delta,NC12292,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+20.11.1933,?,China,CHN,China National Aviation Corporation,?,Canton - Shanghai,Stinson,?,?,8 Â  (passengers:7Â  crew:1),8 Â  (passengers:7Â  crew:1),?
+21.11.1933,15:00,Russia,RUS,Kalinin,?,Test flight,Kalinin K-7,?,?,20 Â  (passengers:?Â  crew:?),14 Â  (passengers:?Â  crew:?),0
+24.11.1933,?,USA,USA,National Air Transport,?,?,Boeing 247,NC13324,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+11.12.1933,c 16:00,Germany,DEU,Deutsche Lufthansa,?,Berlin - Hamburg,Focke-Wulf A-17,D-1403,47,10 Â  (passengers:8Â  crew:2),6 Â  (passengers:4Â  crew:2),0
+14.12.1933,?,South Africa,ZAF,Union Airways,?,?,Junkers W-34,ZS-AEB,2735,6 Â  (passengers:?Â  crew:?),4 Â  (passengers:?Â  crew:?),0
+30.12.1933,c 13:00,Belgium,BEL,Imperial Airways,?,Brussels, Belgium - Croydon, England,Avro 10,G-ABLU,528,10 Â  (passengers:8Â  crew:2)
+15.01.1934,18:15,France,FRA,Air France,?,Saigon - Paris,Dewoitine D-332,F-AMMY,1,14 Â  (passengers:10Â  crew:4),14 Â  (passengers:10Â  crew:4),0
+20.01.1934,?,France,FRA,Air France,?,?,Breguet 280T,F-AJKX,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+23.02.1934,c14:15,USA,USA,Boeing Aircraft Company,?,Salt Lake City - Cheyenne,Boeing 247,NC13357,1739,8 Â  (passengers:5Â  crew:3),8 Â  (passengers:5Â  crew:3),0
+26.02.1934,?,Morocco,MAR,Air France,?,?,LatÃ©coÃ¨re 28,F-AJPA,925,6 Â  (passengers:?Â  crew:?),1 Â  (passengers:?Â  crew:?),0
+06.03.1934,?,USA,USA,American Airways,?,St. Louis, MO - Chicago, IL,Fairchild Pilgrim 100A,NC710Y,6606,4 Â  (passengers:3Â  crew:1)
+10.03.1934,?,Colombia,COL,Pan American Airways (Scadta),?,Quiddo - Cartago,Sikorsky S-38 Flying Boat,NC-9107,?,6 Â  (passengers:4Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+22.03.1934,?,Peru,PER,Pan American Grace Airlines,?,?,Ford 5-AT-C Tri-Motor,NC407H,5-AT-066,15 Â  (passengers:12Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+10.04.1934,?,China,CHN,China National Aviation Corporation,?,?,Sikorsky S-38BB,NV17V,?,3 Â  (passengers:1Â  crew:2),3 Â  (passengers:1Â  crew:2),0
+31.05.1934,05:00,England,GBR,Air France,?,Croydon, England - Paris, France,Liore-et-Olivier 213,F-AIVG,?,2 Â  (passengers:0Â  crew:2)
+09.06.1934,c 17:00,USA,USA,American Airways,?,New York - Chicago,Curtiss Condor T-32,NC12354,22,7 Â  (passengers:4Â  crew:3),7 Â  (passengers:4Â  crew:3),0
+11.06.1934,?,Argentina,ARG,Panagra,?,Buenos Aires - Santiago,Ford 5-AT-C Tri-Motor,NC8417,5-AT-055,10 Â  (passengers:7Â  crew:3),5 Â  (passengers:2Â  crew:3),0
+22.06.1934,?,Germany,DEU,Deutsche Lufthansa,?,?,Dornier Merkur,D-1445,176,7 Â  (passengers:5Â  crew:2),1 Â  (passengers:0Â  crew:1),0
+23.06.1934,c 06:00,USA,USA,Aerevias Centrales Air Service,?,Mexico - Burbank,Lockheed Orion,XA-BEJ,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+09.07.1934,?,USA,USA,United Air Services,?,San Bernardion - Los Angeles,Lockheed Vega,NC32E,?,4 Â  (passengers:3Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+27.07.1934,09:50,Germany,DEU,Swissair,?,Zurich - Berlin,Curtiss AT-32C Condor,CH-170,53,12 Â  (passengers:9Â  crew:3),12 Â  (passengers:9Â  crew:3),0
+05.08.1934,?,Brazil,BRA,Air France,?,?,Latecoere 26,F-AILK,?,2 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+10.08.1934,?,China,CHN,China National Aviation Corporation,?,?,Sikorsky S-38B,?,?,? Â  (passengers:?Â  crew:?),? Â  (passengers:?Â  crew:?),?
+31.08.1934,c 23:42,USA,USA,Rapid Air Transport,6,Omaha - St. Joseph,Stinson  SM-6000B,NC10809,5004,5 Â  (passengers:4Â  crew:1),5 Â  (passengers:4Â  crew:1),0
+03.10.1934,?,Australia,AUS,Qantas,?,?,de Havilland DH-50A,VH-UHE,?,3 Â  (passengers:2Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+19.10.1934,?,Australia,AUS,Holyman Airways,?,Launceston, Tasmania - Melbourne, Australia,de Havilland DH-86,VH-URN,2301,11 Â  (passengers:10Â  crew:1)
+02.11.1934,?,Australia,AUS,Holdens Air Transport Service,?,?,De Havilland DH-61,VH-UHW,?,4 Â  (passengers:?Â  crew:?),2 Â  (passengers:?Â  crew:?),0
+15.11.1934,c 00:00,USA,USA,Rapid Air Transport,?,Omaha, NB - Kansas City, MO,Stinson SM-6000-B,NC10809,?,2 Â  (passengers:0Â  crew:2)
+15.11.1934,?,Australia,AUS,Qantas,?,?,de Havilland DH-86,VH-USG,2311,4 Â  (passengers:3Â  crew:1),4 Â  (passengers:3Â  crew:1),0
+07.12.1934,?,Germany,DEU,Deutsche Lufthansa,?,Berlin - Hanover,Junkers F-13,D-OMAS,2008,3 Â  (passengers:0Â  crew:3),3 Â  (passengers:0Â  crew:3),0
+08.12.1934,05:30,USA,USA,Braniff Airlines,?,Kansas City, MO - Chicago, IL,Lockheed Vega 5C,NC106W,?,1 Â  (passengers:0Â  crew:1)
+10.12.1934,07:30,Cuba,CUB,Cubana de Aviacion,?,Santiago - Havana,Ford 4-AT-E Tri-motor,NM-7,4-AT-63,8 Â  (passengers:5Â  crew:3),4 Â  (passengers:2Â  crew:2),0
+20.12.1934,c 0:30,Syria,SYR,KLM Royal Dutch Airlines,?,Amsterdam - Batavia, Java,Douglas DC-2-115A,PH-AJU,1317,7 Â  (passengers:3Â  crew:4),7 Â  (passengers:3Â  crew:4)
+22.12.1934,02:52,USA,USA,American Airlines,?,Louisville, KY - Nashville, TN,Lockheed Orion 9D,NC12286,?,1 Â  (passengers:0Â  crew:1)
+08.01.1935,?,Pakistan,PAK,Indian Air Force,?,Training,Wapiti,?,?,2 Â  (passengers:0Â  crew:2),0 Â  (passengers:0Â  crew:2),15
+26.01.1935,?,USA,USA,Trans Continental and Western Air,?,Newark, NJ - Columbus, OH,Consolidated Fleetster,NC13212,?,1 Â  (passengers:0Â  crew:1)
+31.01.1935,c 19:00,Germany,DEU,Deruluft,?,Koenigberg - Berlin,Junkers JU-52/3m,D-AREN,4051,11 Â  (passengers:8Â  crew:3),11 Â  (passengers:8Â  crew:3),0
+07.03.1935,?,Germany,DEU,Deruluft,?,?,Rochrbach Roland,D-AJYP,45,? Â  (passengers:?Â  crew:?),3 Â  (passengers:2Â  crew:1),0
+15.03.1935,?,Egypt,EGY,Misrair,?,Jerusalem - Cairo,de Havilland Dragon 1,SU-ABI,6031,6 Â  (passengers:5Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+29.03.1935,?,Germany,DEU,Deutsche Lufthansa,?,?,Junkers F-13,D-OHIL,?,5 Â  (passengers:?Â  crew:?),5 Â  (passengers:?Â  crew:?),0
+01.04.1935,?,France,FRA,Air France,?,?,Farman F-300,F-ALHQ,?,3 Â  (passengers:?Â  crew:?),1 Â  (passengers:?Â  crew:?),0
+06.04.1935,c 15:20,Germany,DEU,KLM Royal Dutch Airlines,?,Praha, Czechoslovakia - Amsterdam, Netherlands,Fokker F-12,PH-AFL,5242,7 Â  (passengers:3Â  crew:4)
+01.05.1935,?,USA,USA,Varney Air Lines,?,?,Lockheed Vega,NC891E,?,1 Â  (passengers:0Â  crew:1),1 Â  (passengers:0Â  crew:1),0
+06.05.1935,03:30,USA,USA,Trans Continental and Western Air,6,Los Angeles - Albuquerque - Kanasas City -  Washington,Douglas DC-2-112,NC13785,1295,14 Â  (passengers:12Â  crew:2),5 Â  (passengers:3Â  crew:2),0
+18.05.1935,18:35,USA,USA,Knowles Flying Service of Detroit,?,Sightseeing,Ford model 4-AT-E,WC-7864,4-AT-49,12 Â  (passengers:11Â  crew:1),3 Â  (passengers:2Â  crew:1),0
+18.05.1935,00:45,Russia,RUS,Gor'ky Eskadril'ya,?,Demonstration,Tupolev ANT-20 / I-5,CCCP-I20,?,50 Â  (passengers:37Â  crew:13),50 Â  (passengers:37Â  crew:13),2

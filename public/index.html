@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Visualisation on plane crashes</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        body,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: "Lato", sans-serif;
+        }
+
+        body,
+        html {
+            height: 100%;
+            color: #777;
+            line-height: 1.8;
+        }
+
+        /* Create a Parallax Effect */
+        .bgimg-1,
+        .bgimg-2,
+        .navbarbg {
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        /* First image (Logo. Full height) */
+        .bgimg-1 {
+            background-image: url(titelbild.png);
+            background-position: left;
+            min-height: 100%;
+        }
+
+        /* Second image (Portfolio) */
+        .bgimg-2 {
+            background-image: url("Bild.jpg");
+            min-height: 400px;
+        }
+
+        .navbarbg {
+            background-color: white;
+        }
+
+        /*Tooltip*/
+        .tooltip {
+            font-weight: bold;
+            padding: 0.5rem;
+            border: 1px solid silver;
+            color: #222;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px 0px #a6a6a6;
+            opacity: 0.9;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 200px;
+            height: 60px;
+            pointer-events: none;
+            display: none;
+        }
+
+
+
+        .w3-wide {
+            letter-spacing: 10px;
+        }
+
+        .w3-hover-opacity {
+            cursor: pointer;
+        }
+
+        /* Turn off parallax scrolling for tablets and phones */
+        @media only screen and (max-device-width: 1600px) {
+
+            .bgimg-1,
+            .bgimg-2,
+            .bgimg-3 {
+                background-attachment: scroll;
+                min-height: 400px;
+            }
+        }
+
+        #myNavbar {
+            padding-bottom: 0px !important;
+            background-color: #efefef !important;
+        }
+
+    </style>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+
+
+</head>
+
+<body>
+
+    <!-- NAVIGATION BAR -->
+    <div class="w3-top navbarbg">
+        <div class="w3-bar" id="myNavbar">
+            <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+                <i class="fa fa-bars"></i>
+            </a>
+
+            <a href="#home" class="w3-bar-item w3-button" style="background-color: grey;color:white;">HOME</a>
+            <a href="#info" class="w3-bar-item w3-button">Project Info</a>
+            <a href="#data" class="w3-bar-item w3-button">Data</a>
+            <a href="#viz" class="w3-bar-item w3-button">Visualization</a>
+            <a href="#design" class="w3-bar-item w3-button">Design</a>
+            <a href="#ref" class="w3-bar-item w3-button">References</a>
+            <a href="#reflection" class="w3-bar-item w3-button">Reflections</a>
+            <a href="#team" class="w3-bar-item w3-button">Team</a>
+
+        </div>
+    </div>
+
+    <!-- FIRST BG IMAGE / HOME SCREEN -->
+    <div class="bgimg-1 w3-display-containeer w3-opacity-min" id="home">
+        <div class="w3-display-middle" style="white-space:nowrap;">
+            <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">Visualisation on plane crashes</span>
+        </div>
+    </div>
+
+    <!-- SECTION PROJECT INFO   -->
+    <div class="w3-content w3-container w3-padding-64" id="info">
+        <h3 class="w4-center">Project Info</h3>
+        <h4>Motivation</h4>
+        We had an initial idea of visualizing data from SBB in regards to train delays and accidents, since we had used an according dataset in a previous assignment related to BDLC. We soon discovered that the data we had gathered there was not suiting the goals of this project and therefore proceeded to ditch this idea.</p>
+        <p>What we then came up with, was an idea to visualize some statistics in regards to plain crashes. Max had just recently watched an interesting documentary on how plane crashes have developed over time - and data was readily available.</p>
+    </div>
+
+    <!-- SECOND BG IMAGE WITH Data TEXT -->
+    <div class="bgimg-2 w3-display-container w3-opacity-min">
+        <div class="w3-display-middle" style="background-color: white;width:40%;height: 50%;opacity: 60%">
+        </div>
+        <div class="w3-display-middle" style="white-space:nowrap;">
+            <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">
+                <b>Our work</b>
+            </span>
+        </div>
+    </div>
+    <br />
+
+
+    <!-- SECTION DATA   -->
+    <div class="w3-content w3-container w3-padding-64" id="data">
+        <h3 class="w3-center">Data</h3>
+        <h4>Where is our data from?</h4>
+        <p>As we were searching for ideas for this project we stumbled upon data of plane crashes on Kaggle.com<br />The csv had a few unnecessary columns and some format problems which we got rid of. With the cleaned csv, we were ready to go.</p>
+        <h4>Instructions</h4>
+        <p>Just jump right into the visualisation below or alternatively select a specific year and/or plane type.</p>
+    </div>
+
+    <!-- SECTION VISUALIZATION -->
+
+    <div class="w3-content w3-container w3-padding-64" id="viz">
+        <h3 class="w3-center">Visualization</h3>
+        <div id="map">
+            <p id="gesamt_map" style="color:red;font-size:20px;font-weight: bold;"></p>
+            <table>
+                <tr>
+                    <td>
+                        Select a year
+                    </td>
+                    <td>
+                        <select id="selectButton"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Select a plane type
+                    </td>
+                    <td>
+                        <select id="selectACType"></select>
+                    </td>
+                </tr>
+            </table>
+            <svg id="my_dataviz" width="1000" height="500"></svg>
+            <div class="tooltip"></div>
+            <script src="visualization.js"></script>
+
+            </p>
+        </div>
+
+        <div id="donut">
+            <h4>Donut-Chart</h4>
+            <p>The donut chart below shows the top 10 aircraft manufacturers, which have been involved in the selected year above. By default, all years are selected.<br />
+                <svg id="donutsvg" width="1000" height="500"></svg>
+                <script src="viz_donut.js"></script>
+            </p>
+        </div>
+        <div id="scatter">
+            <h4>Scatterplot</h4>
+            <p>The scatter plot below shows how many crashes have been recorded in each year. If you change the aircraft-type in the dropdown above, the crash records of this aircraft-type are added into the chart with a new color. To clear the chart, press the button.<br /></p>
+                <button type="button" id="clearScatter">Clear Scatterplot</button>
+                <svg id="scatterplot" width="1000" height="500"></svg>
+                <script src="visualization_scatterplot.js"></script>
+                <p style="color:black;font-size:16px; font-weight: bold; text-decoration: underline;">Top ten years, with most crashes</p>
+                <p id="toptenJahre" style="color:black;font-size:14px;"></p>
+        </div>
+        <div id="evolution">
+            <h4>Evolution of Plane Safety</h4>
+            <p>The line chart below should illustrate the evolution of plane safety. Which means that although a plane crash occurs, not all passengers are doomed. But after running the given numbers, it is pretty evidend, that it stays steady around 80-100%<br /></p>
+            <svg id="evolsvg" width="1000" height="500"></svg>
+            <script src="viz_evol.js"></script>
+            <p style="color:black;font-size:16px; font-weight: bold; text-decoration: underline;">Top ten years, with most fatalities</p>
+            <p id="topTenFatal" style="color:black;font-size:14px;"></p>
+        </div>
+
+        <!-- SECTION DESIGN -->
+
+        <div class="w3-content w3-container w3-padding-64" id="design">
+            <h3 class="w3-center">Design</h3>
+            <h4>Design choices</h4>
+            <p>When we first thought on how we want our visualisation to look like, we were quite confident, that several visualisations had to be made. Initially, we nearly went for an approach, where all different graphs would be displayed in one svg, but we then decided, that this added very small benefits at the cost of loss of overview and simplicity. We built a tooltip for our world map to show details on demand. The color scale shows, where accidents happened and where so often (darker = more crashes)</p>
+
+            <h4>Foundations Visual Design</h4>
+            <p>As we stated before, the main goal was to quickly show a summary of all plane crashes ever recorded. This is why we have moved the world map to the first spot on our visualisation section. More details could then be retrieved either via the tooltip or the further visusalisations</p>
+
+            <h4>Fundamental Principals of Analytical Design</h4>
+            <p>Our visualisations consist of several dimensions</p>
+            <ul>
+                <li>
+                    Longitude & latitude to draw each individual country (world map)
+                </li>
+                <li>
+                    Color ratio to display different amount of crashes (world map)
+                </li>
+                <li>
+                    Tooltip to allow for detail on demand & "Integration of Evidence" (world map)
+                </li>
+                <li>
+                    Size (treemap)
+                </li>
+                <li>X- and Y-axis for year and amount of crashes (scatterplot)</li>
+            </ul>
+            <p>Our color gradient is divded in 6 variants on the world map to quickly see where most crashes happen. The scale is more logarithmical than linear. Would we have gone for a linear approach, we would have lost some clarity and distinguishability.</p>
+
+            <h4>Data-Ink Ratio</h4>
+            <p>To maximize Tufte's principle of Data-Ink ratio, we have selected appropriate sizes for displaying data in text and actual visual parts.</p>
+            <p>“A large share of ink on a graphic should present data-information, the ink changing as the data change. Data-ink is the non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented.” Tufte, 1983</p>
+            <p>We are convinved that our visual arrangements have taken good regards to the Data-Ink ratio.</p>
+
+            <h4>Human Perception</h4>
+            <p>Whilst programming this website, we laid a big importance on the flow whilst reading and scrolling through the page. To enhance the engagement and visual attractiveness we settled for a "cool" website template, which suited our topic.</p>
+            <p>Starting with a top navigation bar, clear instructions and informations about our data, and then followed by our visualization, we found a good approach on how the user is being guided through our project.The transition of actions is natural, causal and hierarchical.The visual changes, when filters are applied, further increase the interactivity.</p>
+
+            <h4>Interaction concepts</h4>
+            <p>Mainly the world map can be interacted with. You can set a year and aircraft type filter. As soon as you hover over a specific country, the according tooltip opens up - and for ease of visibility, the country gets highlighted. Once you change to another location, the tooltip and highlight changes accordingly.</p>
+
+            <h4>Sketched and what's left</h4>
+            <p>Since we had scrapped our initial idea on using the SBB dataset and then switched to a completely different approach, we have made any further sketches. However, we had a "bigger picture" of the visualisation in mind, which can be seen below</p>
+            <img src="sketch.png" style="border: 1px;width: 75%;text-align: center">
+            <p>This image shows, how we initially planned to develop our visualization. We wanted to show routes, where planes crashes and also have some additional filter criterias. After some weeks of testing the approach, we had to switch to only showing where planes have crashed.</p>
+            <p> There are many other possibilities on how our visualizations can be further improved. We thought about adding more specific information - e.g. how the number of crashes correlates to planes in the sky and draw some conclusions from there. Another useful information would be, how many casualties each crash resulted in. However, due to the time constraints of this module, we finished what can be seen above.</p>
+        </div>
+
+
+        <!-- SECTION DESIGN -->
+        <div class="w3-content w3-container w3-padding-64" id="ref" style="padding-top: 10px!important">
+            <h2 class="w3-center">References</h2>
+            <p>To develop our d3 visualization we used different sources to build our knowledge:</p>
+            <u>
+                <li>https://www.tutorialsteacher.com/d3js</li>
+                <li>https://www.d3-graph-gallery.com/index.html</li>
+
+            </u>
+            <p>The general template of our website was contributed by Anja Zimmermann on <a href="https://elearning.hslu.ch/ilias/ilias.php?ref_id=4171650&cmdClass=ilobjforumgui&thr_pk=30855&cmd=viewThread&cmdNode=xu:ok&baseClass=ilrepositorygui">Ilias</a>.</p>
+            <p>As previously stated, we got the data from <a href="https://www.kaggle.com/nguyenhoc/plane-crash#planecrashinfo_20181121001952.csv">Kaggle.</a></p>
+            <p>We worked in close collaboration with the group of Rafael Gomes Machado & Tobias Schär - Some similarities might be discoverable :-)</p>
+        </div>
+
+        <!-- SECTION REFLECTION -->
+        <div class="w3-content w3-container w3-padding-64" id="reflection" style="padding-top: 10px!important">
+            <h2 class="w3-center">Reflection</h2>
+            <h4>What did we learn?</h4>
+            <ul>
+                <li>
+                    How to search for an appropriat dataset & how important a clean data baseline is.
+                </li>
+                <li>
+                    How to develop visualisations with d3 from the start to the implementation.
+                </li>
+                <li>
+                    What the limits are and how time limits constrain our designing process.
+                </li>
+            </ul>
+            <h4>What would we do better next time?</h4>
+            <ul>
+                <li>
+                    Focus on one or two visualisations rather than thinking in many approaches.
+                </li>
+                <li>
+                    Create a working prototype faster to further develop ideas.
+                </li>
+                <li>
+                    Spend more time learning the d3 library, since some of our approaches could have been developed way easier.
+                </li>
+            </ul>
+            <p>All in all, we learned a lot throughout the projects duration. Both of has have never used d3 before and we were inspired, since we didn't know that creating graphs using only JS, HTML & CSS would be that simple, given the time constraint.</p>
+        </div>
+
+        <!-- SECTION Team -->
+        <div class="w3-content w3-container w3-padding-64" id="team" style="padding-top: 10px!important">
+            <h2 class="w3-center">Team</h2>
+            <div class="w3-center">
+                <h3 style="display: inline">Maximilian Becker,</h3>
+                <p style="display: inline">maximilian.becker@stud.hslu.ch</p>
+            </div>
+            <div class="w3-center">
+                <h3 style="display: inline">Philippe Schwarzer,</h3>
+                <p style="display: inline">philippe.schwarzer@stud.hslu.ch</p>
+            </div>
+        </div>
+        </p>
+
+    </div>
+
+</body>
+
+</html>
